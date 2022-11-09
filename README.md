@@ -2,7 +2,7 @@
 
 **1 - Comando para Subir o Docker**<br>
 docker-compose up<br><br>
-**2 - Comandos para Acessar o Docker via Terminal**<br>
+**2 - Comandos para Acessar o Container via Terminal**<br>
 docker ps<br>
 docker exec -it {CONTAINER ID} bash<br><br>
 **3 - Comando para Ir para a Pasta "source"**<br>
