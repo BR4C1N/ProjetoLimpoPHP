@@ -2,3 +2,4 @@ postgreSQL/data/
 root/source/vendor/
 root/source/composer.lock
 root/source/.phpunit.result.cache
+README.md
