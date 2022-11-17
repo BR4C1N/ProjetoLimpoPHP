@@ -4,7 +4,7 @@
 docker-compose up<br><br>
 **2 - Comandos para Acessar o Container via Terminal**<br>
 docker ps<br>
-docker exec -it CONTAINER-ID bash (**Atenção:** CONTAINER-ID é referente ao PHP-Apache)<br><br>
+docker exec -it CONTAINER-ID bash **(CONTAINER-ID é referente ao PHP-Apache)**<br><br>
 **3 - Comando para Ir para a Pasta "source"**<br>
 cd source<br><br>
 **4 - Comando para Executar o Instalador do Composer**<br>
