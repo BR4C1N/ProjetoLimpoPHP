@@ -11,7 +11,7 @@ cd source<br><br>
 composer install<br><br>
 **5 - Comando para Executar os Testes**<br>
 vendor/bin/phpunit<br><br><br>
-**Comandos para apenas realizar os testes (Após a instalação)**<br><br>
+**Comandos para apenas realizar os testes (Após a instalação)**<br>
 1 - docker ps<br>
 2 - docker exec -it CONTAINER-ID bash (**CONTAINER-ID referente ao PHP-Apache**)<br>
 3 - cd source<br>
