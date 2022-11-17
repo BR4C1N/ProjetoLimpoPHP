@@ -12,4 +12,9 @@ composer install<br><br>
 **5 - Comando para Executar os Testes**<br>
 vendor/bin/phpunit<br><br>
 **Link de Acesso Local**<br>
-http://localhost:8000/source/src/
+http://localhost:8000/source/src/<br><br><br>
+**Comandos para apenas realizar os testes (Após a instalação)**<br>
+docker ps<br><br>
+docker exec -it CONTAINER-ID bash (**Atenção:** CONTAINER-ID é referente ao PHP-Apache)<br><br>
+cd source<br><br>
+vendor/bin/phpunit<br><br>
